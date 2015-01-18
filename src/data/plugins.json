@@ -261,5 +261,25 @@
         "image": "",
         "expand": true,
         "overview": "Moves selected layers vertically according to the cursor position."
+    },{
+        "name": "Better Paste",
+        "url": "https://github.com/kenmoore/sketch-better-paste",
+        "author": {
+            "name": "Ken Moore",
+            "url": "http://kenmooredesign.com"
+        },
+        "image": "",
+        "expand": true,
+        "overview": "Paste as it was meant to be -- into the artboard you're viewing, not some random artboard far away."
+    },{
+        "name": "Relabel Button",
+        "url": "https://github.com/kenmoore/sketch-relabel-button",
+        "author": {
+            "name": "Ken Moore",
+            "url": "http://kenmooredesign.com"
+        },
+        "image": "",
+        "expand": true,
+        "overview": "Just type the new text for your button and it resizes automatically, preserving the existing padding. Here's a [quick demo](https://www.youtube.com/watch?v=14IKFvKiNqM)."
     }]
 }
